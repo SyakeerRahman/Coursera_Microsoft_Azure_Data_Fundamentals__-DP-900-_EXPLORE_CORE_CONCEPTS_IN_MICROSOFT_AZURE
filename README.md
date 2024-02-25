@@ -1,5 +1,8 @@
 # Coursera_Microsoft_Azure_Data_Fundamentals__-DP-900-_EXPLORE_CORE_CONCEPTS_IN_MICROSOFT_AZURE
 
+![Uploading image.png…]()
+
+
   ## Module 1 Core Data Concepts and Roles
     ### Introduction to the course
     ### Explore Core Data Concepts
